@@ -1,0 +1,7 @@
+{
+  "locale": "fr",
+  "messages": {
+    "app.welcome": "Bienvenue !",
+    "app.greeting_message": "Salut {name}, ça va ?"
+  }
+}
