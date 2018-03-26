@@ -1,5 +1,7 @@
 import React from 'react';
+import { hot } from 'react-hot-loader';
 import Dialog from './Dialog';
+
 
 /* Use react-intl as a React component */
 const array = [];
@@ -49,4 +51,4 @@ class App extends React.Component {
     }
 }
 
-export default App;
+export default hot(module)(App);
