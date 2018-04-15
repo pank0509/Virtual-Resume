@@ -1,0 +1,96 @@
+.Name{
+    font-family: 'Nosifer', cursive;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 4rem;
+    font-weight: bold;
+}
+.Gif-image {
+  text-align: center;
+}
+.whoIAmdiv {
+    font-family: 'Italianno', cursive;
+    font-size: 100px;
+}
+
+.WIK {
+    font-family: 'Caudex', serif;
+    font-size: 100px;
+    text-align: center;
+}
+@media (max-width: 400px) {
+    .whoIAmdiv {
+        font-family: 'Italianno', cursive;
+        font-size: 16px;
+    }
+    .WIK {
+        font-family: 'Caudex', serif;
+        font-size: 20px;
+        text-align: center;
+    }
+}
+@media (max-width: 600px) {
+    .whoIAmdiv {
+        font-family: 'Italianno', cursive;
+        font-size: 24px;
+    }
+    .WIK {
+        font-family: 'Caudex', serif;
+        font-size: 30px;
+        text-align: center;
+    }
+}
+@media (max-width: 800px) {
+    .whoIAmdiv {
+        font-family: 'Italianno', cursive;
+        font-size: 36px;
+    }
+    .WIK {
+        font-family: 'Caudex', serif;
+        font-size: 38px;
+        text-align: center;
+    }
+}
+@media (max-width: 1200px) {
+    .whoIAmdiv {
+        font-family: 'Italianno', cursive;
+        font-size: 42px;
+    }
+    .WIK {
+        font-family: 'Caudex', serif;
+        font-size: 50px;
+        text-align: center;
+    }
+}
+@media (max-width: 1800px) {
+    .whoIAmdiv {
+        font-family: 'Italianno', cursive;
+        font-size: 54px;
+    }
+    .WIK {
+        font-family: 'Caudex', serif;
+        font-size: 62px;
+        text-align: center;
+    }
+}
+.linkedIn-Image {
+    width: 100%;
+}
+.gitHub-Image {
+    width: 100%;
+}
+.web-dev-image {
+    width: 80%;
+}
+.stackover-flow {
+    width: 100%;
+}
+.WAI-image{
+    width: 80%;
+}
+.react-redux-image {
+    width: 80%;
+}
+.senvion-image {
+    width: 40%;
+}
