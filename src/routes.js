@@ -5,7 +5,7 @@ import App from './pages/App';
 
 const Routes = () => (
     <Switch>
-        <Route path="/app" component={App} changeLanguage={() => {}} />
+        <Route path="/" component={App} changeLanguage={() => {}} />
     </Switch>
 );
 export default hot(module)(Routes);
